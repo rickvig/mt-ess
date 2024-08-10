@@ -1,1 +1,1 @@
-# Essensial repo for Data Lakehouse
+# Essential repo for Data Lakehouse
