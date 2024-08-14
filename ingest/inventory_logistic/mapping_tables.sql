@@ -164,6 +164,3 @@ SC.vDocked_Orders
 				    -- Product.CatalogVersionDescriptionTranslations clvtrans
 					
 			
-
-
-
